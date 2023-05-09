@@ -1,0 +1,29 @@
+header { 
+    background-color: #053c5e;
+    overflow: hidden;
+}
+
+
+
+nav a{
+    position: sticky;
+    display:contents;
+    width: 100%;
+    text-decoration: solid;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: beige;
+    text-align: center;
+}
+
+body{
+    background-color:  #519f6a; ;
+}
+
+table{
+    border-width: 5px;
+    border: solid;
+    border-color:rgb(79, 54, 24);
+    text-align: center;
+     
+}
